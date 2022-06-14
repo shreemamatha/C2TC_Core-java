@@ -1,4 +1,4 @@
-package acharya_5c;
+package acharya_5;
 class student {
 	int rollno;
 	String name;
